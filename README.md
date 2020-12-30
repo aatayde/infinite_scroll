@@ -2,4 +2,4 @@
 
 Unsplash API with infinite scroll effect
 
-Netlify link: https://cranky-euclid-656ccc.netlify.app
+Netlify link: https://pedantic-hopper-8b526a.netlify.app/
