@@ -5,10 +5,12 @@ let ready = false;
 let imagesLoaded = 0;
 let totalImages = 0;
 let photosArray = [];
+var mykey = config.MY_KEY;
+
 
 // Unsplash API
 let count = 5;
-const apiKey = config.apiKey;
+const apiKey = mykey;
 let apiUrl = `https://api.unsplash.com/photos/random/?client_id=${apiKey}&count=${count}`;
 
 // check if all images were loaded
